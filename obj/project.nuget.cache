@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rbbv9qVM1jbaAapaYiWu+j+s2iKJW1Gi7Yp8O69WTnNgB+xAKcSIuQ+AV1gq6lzFgcNtze07e4dBGyT0g1+7OA==",
+  "success": true,
+  "projectFilePath": "/Users/natiqalhawmani/Projects/variables/variables/variables.csproj",
+  "expectedPackageFiles": [
+    "/Users/natiqalhawmani/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/natiqalhawmani/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
+    "/Users/natiqalhawmani/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
