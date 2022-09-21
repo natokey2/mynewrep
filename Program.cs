@@ -28,8 +28,15 @@ namespace variables
 
              Console.WriteLine();
              hhuifludysduyighipjo[ojpog;if]
+                    System.Console.WriteLine("lalalalal");
+            System.Console.WriteLine("lalalalal");
 
-              string MyLastName;
+            System.Console.WriteLine("lalalalal");
+
+            System.Console.WriteLine("lalalalal");
+
+
+            string MyLastName;
 
               Console.Write("Enter your last name:");
               MyLastName = Console.ReadLine();
