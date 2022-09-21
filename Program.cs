@@ -16,6 +16,8 @@ namespace variables
 
             global::System.Console.WriteLine("Hej från Josef!!!!!!!!!!!!!!!!!!!!!!");
 
+            global::System.Console.WriteLine("blablabla");
+
              Console.WriteLine("Whats is your name?");
               Console.Write("Enter your first name: ");
             System.Console.WriteLine("hello hello.");
