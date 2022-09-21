@@ -23,6 +23,9 @@ namespace variables
 
              myFirstNme = Console.ReadLine();
 
+             Console.WriteLine();
+             hhuifludysduyighipjo[ojpog;if]
+
               string MyLastName;
 
               Console.Write("Enter your last name:");
