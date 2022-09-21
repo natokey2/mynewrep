@@ -18,6 +18,7 @@ namespace variables
 
              Console.WriteLine("Whats is your name?");
               Console.Write("Enter your first name: ");
+            System.Console.WriteLine("hello hello.");
 
               string myFirstNme;
 
