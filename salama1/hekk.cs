@@ -5,6 +5,7 @@ namespace salama1
     {
         public hekk()
         {
+            Console.WriteLine("choni bashi");
         }
     }
 }
